@@ -4,9 +4,13 @@
 
 **Budigi Vamshi**
 
-*Cybersecurity / SOC Analyst (Hands-On Lab & Practical Experience)*  
-*Home Security Lab · Self-employed*
 
+
+
+
+ *Codeworks EduTech Services Pvt. Ltd*
+ *Cybersecurity Analyst L1 Intern*
+ *Security Monitoring & SOC Operations*
 
 
 ### Codeworks EduTech Services Pvt. Ltd.
