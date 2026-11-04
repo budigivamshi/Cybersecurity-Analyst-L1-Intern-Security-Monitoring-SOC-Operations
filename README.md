@@ -5,22 +5,14 @@
 **Budigi Vamshi**
 
 
-
-
-
- *Codeworks EduTech Services Pvt. Ltd*
- *Cybersecurity Analyst L1 Intern*
- *Security Monitoring & SOC Operations*
-
-
 ### Codeworks EduTech Services Pvt. Ltd.
 
 This repository documents my hands-on **Cybersecurity Analyst L1 internship experience at Codeworks EduTech Services Pvt. Ltd.**, with a focus on **Security Operations Center (SOC), security monitoring, alert triage, incident investigation, network security, SIEM, and incident response**.
 
 ## 🏢 Internship
 
-**Company:** Codeworks EduTech Services Pvt. Ltd
-**Role:** Cybersecurity Analyst L1 Intern
+**Company:** Codeworks EduTech Services Pvt. Ltd<br>
+**Role:** Cybersecurity Analyst L1 Intern<br>
 **Focus:** Security Monitoring & SOC Operations
 
 ## 🔐 Cybersecurity Fundamentals
