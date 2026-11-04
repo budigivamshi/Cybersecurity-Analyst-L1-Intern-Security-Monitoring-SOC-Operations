@@ -15,9 +15,9 @@ This repository documents my hands-on **Cybersecurity Analyst L1 internship expe
 
 ## 🏢 Internship
 
-**Company:** Codeworks EduTech Services Pvt. Ltd*
-**Role:** Cybersecurity Analyst L1 Intern*
-**Focus:** Security Monitoring & SOC Operations*
+**Company:** Codeworks EduTech Services Pvt. Ltd
+**Role:** Cybersecurity Analyst L1 Intern
+**Focus:** Security Monitoring & SOC Operations
 
 ## 🔐 Cybersecurity Fundamentals
 
